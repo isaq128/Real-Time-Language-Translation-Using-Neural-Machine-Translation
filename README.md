@@ -32,7 +32,7 @@ Threading (for efficient translation processing)
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/real-time-translation.git
+
 cd real-time-translation
 Install dependencies:
 
